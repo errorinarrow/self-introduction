@@ -173,13 +173,4 @@ footer {
 		padding: 8px;
 		font-size: 14px;
 	}
-
-	.social-link img {
-		width: 40px;
-		height: 40px;
-	}
-
-	.social-link span {
-		font-size: 12px;
-	}
 }
