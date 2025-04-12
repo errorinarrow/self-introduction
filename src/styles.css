@@ -64,7 +64,6 @@ h1 {
 	border-collapse: collapse;
 	margin: 30px 0;
 	overflow-x: auto;
-	display: block;
 }
 
 .skills-table th,
